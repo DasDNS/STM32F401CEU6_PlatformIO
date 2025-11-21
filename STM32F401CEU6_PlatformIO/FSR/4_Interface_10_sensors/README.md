@@ -202,6 +202,7 @@ FSR readings: 1.95, 1.95, 1.92, 1.96, 1.90, 1.79, 1.83, 985.92, 2.15, 1.91
 FSR readings: 0.23, 0.28, 0.25, 0.25, 0.22, 0.20, 0.13, 0.11, 0.10, 0.22
 FSR readings: 0.22, 0.28, 0.25, 0.22, 0.23, 0.16, 0.16, 0.16, 0.10, 0.25
 ---- Closed serial port /dev/ttyUSB0 due to disconnection from the machine ----
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a81b0f1-f18c-4bb7-aa91-fd552d89d594" />
 
 ---
 
