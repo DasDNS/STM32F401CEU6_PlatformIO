@@ -185,34 +185,40 @@ Load Voltage [V]: 5.26
 Current[mA]: 0.40
 Bus Power [mW]: 1.88
 Values OK - no overflow
+```
 2. 1 kΩ Resistor
-plaintext
-Copy code
+```plaintext
+
 Shunt Voltage [mV]: 0.38
 Bus Voltage [V]: 5.24
 Load Voltage [V]: 5.24
 Current[mA]: 3.85
 Bus Power [mW]: 20.62
 Values OK - no overflow
+```
 3. 330 Ω Resistor
-plaintext
-Copy code
+```plaintext
+
 Shunt Voltage [mV]: 0.98
 Bus Voltage [V]: 5.18
 Load Voltage [V]: 5.18
 Current[mA]: 9.85
 Bus Power [mW]: 51.25
 Values OK - no overflow
+```
 4. 110 Ω Resistor
-plaintext
-Copy code
+```plaintext
+
 Shunt Voltage [mV]: 2.43
 Bus Voltage [V]: 5.09
 Load Voltage [V]: 5.09
 Current[mA]: 24.27
 Bus Power [mW]: 123.75
 Values OK - no overflow
-📈 Observations
+```
+
+## 📈 Observations
+```plaintext
 Measured current closely matches theoretical values, especially for lower resistances.
 
 Percentage deviation increases for high-value resistors due to:
@@ -222,8 +228,11 @@ INA226 resolution limitations at low currents
 LED non-linear behavior
 
 No overflow occurred in any measurement.
+```
+---
 
-📦 PlatformIO Configuration
+## 📦 PlatformIO Configuration
+```plaintext
 Ensure your platformio.ini includes the correct environment settings for the STM32 Black Pill:
 
 ini
@@ -234,5 +243,10 @@ board = blackpill_f411ce
 framework = arduino
 upload_protocol = stlink
 monitor_speed = 115200
-📝 Conclusion
+
+```
+##
+
+## 📝 Conclusion
 This project successfully validates the use of the INA226 for low-power current sensing with STM32 microcontrollers. The readings are accurate and stable, making the setup suitable for LED load testing, battery monitoring, and power analysis applications.
+---
