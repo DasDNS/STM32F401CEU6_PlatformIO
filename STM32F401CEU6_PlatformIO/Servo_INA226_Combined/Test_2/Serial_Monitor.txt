@@ -1,0 +1,90 @@
+Moving servo to 180°
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: -0.03
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 0.53
+Bus Voltage [V]: 5.22
+Load Voltage [V]: 5.22
+Current[mA]: 5.28
+Bus Power [mW]: 27.50
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 1.71
+Bus Voltage [V]: 4.17
+Load Voltage [V]: 4.17
+Current[mA]: 17.05
+Bus Power [mW]: 86.87
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 1.82
+Bus Voltage [V]: 5.11
+Load Voltage [V]: 5.11
+Current[mA]: 18.22
+Bus Power [mW]: 93.12
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 3.64
+Bus Voltage [V]: 4.27
+Load Voltage [V]: 4.28
+Current[mA]: 36.38
+Bus Power [mW]: 155.63
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 0.53
+Bus Voltage [V]: 5.24
+Load Voltage [V]: 5.24
+Current[mA]: 5.30
+Bus Power [mW]: 27.50
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 1.68
+Bus Voltage [V]: 5.11
+Load Voltage [V]: 5.11
+Current[mA]: 16.80
+Bus Power [mW]: 86.25
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 0.52
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 5.32
+Bus Power [mW]: 27.50
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 0.54
+Bus Voltage [V]: 5.21
+Load Voltage [V]: 5.21
+Current[mA]: 5.43
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 0.54
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 5.43
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 0.05
+Bus Voltage [V]: 1.35
+Load Voltage [V]: 1.35
+Current[mA]: 0.50
+Bus Power [mW]: 1.25
+Values OK - no overflow
+
+---- Closed the serial port /dev/ttyUSB0 ----
+
