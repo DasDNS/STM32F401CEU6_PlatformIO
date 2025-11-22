@@ -169,15 +169,7 @@ Here is the requested text formatted in Markdown, ready for you to copy and past
 
 ````markdown
 ## 📊 Summary of Measured Values
-
-The table compares real current values measured with INA226 vs theoretical Ohm’s Law values.
-
-| # | Vs (V) | R (Ω) | Color Code (4-band) | Real (mA) | Theoretical (mA) | % Difference |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 5.26 | 10,000 | Brown-Black-Orange-Gold | 0.40 | 0.53 | 22.70% |
-| 2 | 5.24 | 1,000 | Brown-Black-Red-Gold | 3.85 | 3.24 | 18.83% |
-| 3 | 5.18 | 330 | Orange-Orange-Brown-Gold | 9.85 | 9.64 | 2.18% |
-| 4 | 5.09 | 110 | Brown-Brown-Brown-Gold | 24.27 | 28.09 | 13.61% |
+<img width="1112" height="374" alt="image" src="https://github.com/user-attachments/assets/fe3a17e5-a0e8-46bc-b143-1dc425cf4dc1" />
 
 ---
 
