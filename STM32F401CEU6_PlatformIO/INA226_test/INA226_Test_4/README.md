@@ -248,5 +248,8 @@ monitor_speed = 115200
 ##
 
 ## 📝 Conclusion
-This project successfully validates the use of the INA226 for low-power current sensing with STM32 microcontrollers. The readings are accurate and stable, making the setup suitable for LED load testing, battery monitoring, and power analysis applications.
 ---
+```plaintext
+This project successfully validates the use of the INA226 for low-power current sensing with STM32 microcontrollers. The readings are accurate and stable, making the setup suitable for LED load testing, battery monitoring, and power analysis applications.
+
+```
