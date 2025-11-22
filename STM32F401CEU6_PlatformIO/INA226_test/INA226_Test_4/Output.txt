@@ -1,0 +1,326 @@
+---- Opened the serial port /dev/ttyUSB1 ----
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.43
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.43
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.05
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 0.45
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.27
+Load Voltage [V]: 5.27
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.28
+Load Voltage [V]: 5.28
+Current[mA]: 0.40
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.30
+Load Voltage [V]: 5.30
+Current[mA]: 0.43
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.04
+Bus Voltage [V]: 5.31
+Load Voltage [V]: 5.31
+Current[mA]: 0.43
+Bus Power [mW]: 1.88
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 2.05
+Load Voltage [V]: 2.05
+Current[mA]: 0.05
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.61
+Load Voltage [V]: 0.61
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.19
+Load Voltage [V]: 0.19
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: -0.00
+Bus Voltage [V]: 0.07
+Load Voltage [V]: 0.07
+Current[mA]: -0.03
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+---- Closed serial port /dev/ttyUSB1 due to disconnection from the machine ----
+
+
+1 kilo ohm Resistor
+---- Opened the serial port /dev/ttyUSB1 ----
+Shunt Voltage [mV]: -0.00
+Bus Voltage [V]: 0.01
+Load Voltage [V]: 0.01
+Current[mA]: -0.05
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.01
+Load Voltage [V]: 0.01
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.01
+Load Voltage [V]: 0.01
+Current[mA]: 0.03
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.38
+Bus Voltage [V]: 5.24
+Load Voltage [V]: 5.24
+Current[mA]: 3.85
+Bus Power [mW]: 20.62
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.39
+Bus Voltage [V]: 5.24
+Load Voltage [V]: 5.24
+Current[mA]: 3.90
+Bus Power [mW]: 20.62
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.39
+Bus Voltage [V]: 5.24
+Load Voltage [V]: 5.24
+Current[mA]: 3.90
+Bus Power [mW]: 20.62
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.38
+Bus Voltage [V]: 5.24
+Load Voltage [V]: 5.24
+Current[mA]: 3.85
+Bus Power [mW]: 20.62
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.39
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 3.90
+Bus Power [mW]: 20.62
+Values OK - no overflow
+
+---- Closed the serial port /dev/ttyUSB1 ----
+
+Orange orange brown (330 Ohm resistor)
+Shunt Voltage [mV]: 0.98
+Bus Voltage [V]: 5.18
+Load Voltage [V]: 5.18
+Current[mA]: 9.85
+Bus Power [mW]: 51.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.98
+Bus Voltage [V]: 5.18
+Load Voltage [V]: 5.18
+Current[mA]: 9.85
+Bus Power [mW]: 51.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.98
+Bus Voltage [V]: 5.18
+Load Voltage [V]: 5.18
+Current[mA]: 9.82
+Bus Power [mW]: 51.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.99
+Bus Voltage [V]: 5.18
+Load Voltage [V]: 5.18
+Current[mA]: 9.90
+Bus Power [mW]: 51.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 1.09
+Bus Voltage [V]: 5.17
+Load Voltage [V]: 5.17
+Current[mA]: 10.85
+Bus Power [mW]: 56.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 1.09
+Bus Voltage [V]: 5.17
+Load Voltage [V]: 5.17
+Current[mA]: 10.88
+Bus Power [mW]: 56.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 1.09
+Bus Voltage [V]: 5.19
+Load Voltage [V]: 5.19
+Current[mA]: 10.93
+Bus Power [mW]: 56.25
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.93
+Bus Voltage [V]: 4.66
+Load Voltage [V]: 4.66
+Current[mA]: 9.27
+Bus Power [mW]: 43.13
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.85
+Load Voltage [V]: 0.85
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.26
+Load Voltage [V]: 0.26
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.08
+Load Voltage [V]: 0.08
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+---- Closed the serial port /dev/ttyUSB1 ----
+
+
+Brown Black Brown 110 Ohm resistor
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: 0.03
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 2.45
+Bus Voltage [V]: 5.08
+Load Voltage [V]: 5.09
+Current[mA]: 24.52
+Bus Power [mW]: 125.00
+Values OK - no overflow
+
+Shunt Voltage [mV]: 2.43
+Bus Voltage [V]: 5.09
+Load Voltage [V]: 5.09
+Current[mA]: 24.27
+Bus Power [mW]: 123.75
+Values OK - no overflow
+
+Shunt Voltage [mV]: 2.32
+Bus Voltage [V]: 5.09
+Load Voltage [V]: 5.09
+Current[mA]: 23.17
+Bus Power [mW]: 117.50
+Values OK - no overflow
+
+---- Closed the serial port /dev/ttyUSB1 ----
+
+Red Red Black
+
+Shunt Voltage [mV]: 8.81
+Bus Voltage [V]: 4.68
+Load Voltage [V]: 4.69
+Current[mA]: 88.15
+Bus Power [mW]: 412.50
+Values OK - no overflow
+
+Shunt Voltage [mV]: 8.65
+Bus Voltage [V]: 4.69
+Load Voltage [V]: 4.70
+Current[mA]: 86.47
+Bus Power [mW]: 405.63
+Values OK - no overflow
+
+Shunt Voltage [mV]: 9.37
+Bus Voltage [V]: 4.65
+Load Voltage [V]: 4.66
+Current[mA]: 93.72
+Bus Power [mW]: 436.25
+Values OK - no overflow
+
+---- Closed the serial port /dev/ttyUSB1 ----
