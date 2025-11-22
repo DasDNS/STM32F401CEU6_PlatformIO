@@ -90,7 +90,7 @@ void setup() {
     Serial.println("INA226 not found on I2C bus.");
   }
 
-  // Initialize INA226 once (your original logic)
+  // Initialize INA226 once
   if (!ina226.init()) {
     Serial.println("Failed to init INA226. Check your wiring.");
     while (1) {}
@@ -165,11 +165,11 @@ void checkForI2cErrors() {
     while (1) {}
   }
 }
-Here is the requested text formatted in Markdown, ready for you to copy and paste.
 
-````markdown
+```
 ## 📊 Summary of Measured Values
-<img width="1112" height="374" alt="image" src="https://github.com/user-attachments/assets/fe3a17e5-a0e8-46bc-b143-1dc425cf4dc1" />
+
+<img width="1112" height="374" alt="Screenshot" src="https://github.com/user-attachments/assets/90715e3c-3084-4980-bb10-8c35183ab7e6" />
 
 ---
 
@@ -178,7 +178,6 @@ Here is the requested text formatted in Markdown, ready for you to copy and past
 Below are the exact serial readings for each resistor value.
 
 ### 1. 10 kΩ Resistor
-
 ```plaintext
 Shunt Voltage [mV]: 0.04
 Bus Voltage [V]: 5.26
@@ -186,71 +185,54 @@ Load Voltage [V]: 5.26
 Current[mA]: 0.40
 Bus Power [mW]: 1.88
 Values OK - no overflow
-````
-
-### 2\. 1 kΩ Resistor
-
-```plaintext
+2. 1 kΩ Resistor
+plaintext
+Copy code
 Shunt Voltage [mV]: 0.38
 Bus Voltage [V]: 5.24
 Load Voltage [V]: 5.24
 Current[mA]: 3.85
 Bus Power [mW]: 20.62
 Values OK - no overflow
-```
-
-### 3\. 330 Ω Resistor
-
-```plaintext
+3. 330 Ω Resistor
+plaintext
+Copy code
 Shunt Voltage [mV]: 0.98
 Bus Voltage [V]: 5.18
 Load Voltage [V]: 5.18
 Current[mA]: 9.85
 Bus Power [mW]: 51.25
 Values OK - no overflow
-```
-
-### 4\. 110 Ω Resistor
-
-```plaintext
+4. 110 Ω Resistor
+plaintext
+Copy code
 Shunt Voltage [mV]: 2.43
 Bus Voltage [V]: 5.09
 Load Voltage [V]: 5.09
 Current[mA]: 24.27
 Bus Power [mW]: 123.75
 Values OK - no overflow
-```
+📈 Observations
+Measured current closely matches theoretical values, especially for lower resistances.
 
------
+Percentage deviation increases for high-value resistors due to:
 
-## 📈 Observations
+INA226 resolution limitations at low currents
 
-  * Measured current closely matches theoretical values, especially for lower resistances.
-  * Percentage deviation increases for high-value resistors due to:
-      * INA226 resolution limitations at low currents
-      * LED non-linear behavior
-  * No overflow occurred in any measurement.
+LED non-linear behavior
 
------
+No overflow occurred in any measurement.
 
-## 📦 PlatformIO Configuration
+📦 PlatformIO Configuration
+Ensure your platformio.ini includes the correct environment settings for the STM32 Black Pill:
 
-Ensure your `platformio.ini` includes the correct environment settings for the STM32 Black Pill:
-
-```ini
+ini
+Copy code
 [env:blackpill_f411ce]
 platform = ststm32
 board = blackpill_f411ce
 framework = arduino
 upload_protocol = stlink
 monitor_speed = 115200
-```
-
------
-
-## 📝 Conclusion
-
+📝 Conclusion
 This project successfully validates the use of the INA226 for low-power current sensing with STM32 microcontrollers. The readings are accurate and stable, making the setup suitable for LED load testing, battery monitoring, and power analysis applications.
-
-```
-```
