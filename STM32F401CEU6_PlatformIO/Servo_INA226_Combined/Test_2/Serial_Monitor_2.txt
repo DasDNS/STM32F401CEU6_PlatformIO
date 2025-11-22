@@ -1,0 +1,106 @@
+---- Opened the serial port /dev/ttyUSB0 ----
+Moving servo to 0°
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: 0.00
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: -0.00
+Bus Voltage [V]: 0.00
+Load Voltage [V]: 0.00
+Current[mA]: -0.03
+Bus Power [mW]: 0.00
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 0.55
+Bus Voltage [V]: 5.24
+Load Voltage [V]: 5.24
+Current[mA]: 5.45
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 0.55
+Bus Voltage [V]: 5.20
+Load Voltage [V]: 5.20
+Current[mA]: 5.48
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 1.86
+Bus Voltage [V]: 5.11
+Load Voltage [V]: 5.11
+Current[mA]: 18.55
+Bus Power [mW]: 95.00
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 0.55
+Bus Voltage [V]: 5.20
+Load Voltage [V]: 5.20
+Current[mA]: 5.55
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 1.86
+Bus Voltage [V]: 5.12
+Load Voltage [V]: 5.12
+Current[mA]: 18.60
+Bus Power [mW]: 95.00
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 0.54
+Bus Voltage [V]: 5.27
+Load Voltage [V]: 5.27
+Current[mA]: 5.38
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 0.53
+Bus Voltage [V]: 5.23
+Load Voltage [V]: 5.23
+Current[mA]: 5.32
+Bus Power [mW]: 27.50
+Values OK - no overflow
+
+Moving servo to 180°
+Shunt Voltage [mV]: 0.54
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 5.43
+Bus Power [mW]: 28.75
+Values OK - no overflow
+
+Moving servo to 90°
+Shunt Voltage [mV]: 0.53
+Bus Voltage [V]: 5.26
+Load Voltage [V]: 5.26
+Current[mA]: 5.32
+Bus Power [mW]: 27.50
+Values OK - no overflow
+
+Moving servo to 0°
+Shunt Voltage [mV]: 0.97
+Bus Voltage [V]: 5.18
+Load Voltage [V]: 5.18
+Current[mA]: 9.73
+Bus Power [mW]: 50.00
+Values OK - no overflow
+
+---- Closed the serial port /dev/ttyUSB0 ----
